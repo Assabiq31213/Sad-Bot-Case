@@ -72,7 +72,7 @@ async function startpapah() {
     const papah = papahConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Papah-Chan','Opera','1.0.0'],
+        browser: ['Jessica Multi Device','Safari','1.0.0'],
         auth: state
     })
 

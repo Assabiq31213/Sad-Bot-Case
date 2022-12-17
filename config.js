@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282287219167']
-global.ownernomer = "6282287219167"
-global.premium = ['6282287219167']
-global.packname = 'Sticker By'
-global.author = 'Sad-Bot'
-global.sessionName = 'papah'  //jangan diganti bro nanti error
+global.owner = ['6285790466509']
+global.ownernomer = "6285790466509"
+global.premium = ['6285790466509']
+global.packname = 'Punya Sabiq <3 Created By Jessica-Bot'
+global.author = 'Ig: sbqxyz'
+global.sessionName = 'session'
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
@@ -65,9 +65,9 @@ global.myytv = ''
 global.mygc = ""
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'SAD BOT'
-global.akulaku = 'Bot By Papah'
-global.ytname = 'YT PAPAH' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'Jessica-Bot'
+global.akulaku = 'Jessica-Bot Created By BiqqTzy'
+global.ytname = 'Assabiq YT' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
